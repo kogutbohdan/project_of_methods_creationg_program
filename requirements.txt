@@ -1,2 +1,5 @@
 fastapi
 uvicorn
+sentence-transformer
+PyDrive2
+chromadb
