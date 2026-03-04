@@ -1,5 +1,6 @@
 fastapi
 uvicorn
-sentence-transformer
+torch
+sentence-transformers
 PyDrive2
 chromadb
